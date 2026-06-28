@@ -46,4 +46,8 @@ Output:
 **
 *
 
+Note
+Don't print any extra spaces after symbol " * ".
+
+
 */
